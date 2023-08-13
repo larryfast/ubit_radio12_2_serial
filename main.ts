@@ -7,7 +7,7 @@ radio.setGroup(0)
 basic.forever(function () {
     if (received == 1) {
         received = 0
-        led.toggle(2, 2)
+        led.toggle(1, 1)
     } else {
         led.toggle(4, 4)
     }
