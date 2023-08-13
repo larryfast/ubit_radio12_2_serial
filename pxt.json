@@ -1,5 +1,5 @@
 {
-    "name": "radio2serial_ubit",
+    "name": "radio12_2serial",
     "description": "",
     "dependencies": {
         "core": "*",
